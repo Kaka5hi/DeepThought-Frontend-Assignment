@@ -5,5 +5,4 @@ Task 1 - Webpage Creation (Completed)
 - Designed static layout with some toggle functionality on sidebar and each task box.
 - Audio file was not available(google drive access issue) so left that part empty.
 
-Task 2 - Dynamic Functionality (Working)
-- Issue with cors while fetching data.
+See live <a href='https://dt-frontend-challenge-static-site.netlify.app'>here</a>
